@@ -1,8 +1,7 @@
 ---
 layout: page
 title: resume
-permalink: /resume/
+permalink: /pdf/resume_2021.pdf
 description:
 nav: true
-redirect: resume_2021.pdf
 ---

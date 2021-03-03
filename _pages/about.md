@@ -15,7 +15,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-I am an undergraduate student at the Massachusetts Institute of Technology (MIT) studying biological engineering. Over the past few years, I have worked in synthetic biology and RNA sequencing analysis. Currently I am at Alnylam Pharmaceuticals working on RNA interference oligonucleotide research.
+I am a current undergraduate student at the Massachusetts Institute of Technology (MIT) studying biological engineering. Over the past few years, I have worked in synthetic biology and RNA sequencing analysis. Currently I am at Alnylam Pharmaceuticals working on RNA interference oligonucleotide research.
 
 I am passionate about solving medical problems with novel ideas in biology, chemistry, and engineering. I am interested in drug delivery, human diseases, and nucleotide engineering.
 
