@@ -1,0 +1,38 @@
+---
+layout: page
+title: experience
+permalink: /experience/
+description:
+nav: true
+---
+
+
+## [Alnylam Pharmaceuticals](../_projects/alnylam.md/)    				     				     
+##### *RNAi Discovery Co-op, January 2021 - Current*
+-	Prepare and analyze siRNA for research and drug discovery collaboration
+-	Analyze purity and identity of oligonucleotide single strands and duplexes through mass spectrometry
+-	Contribute to hundreds of in vitro and in vivo preclinical drug development studies
+-	Perform analysis through software tools such as ChemStation and Pyros eXpress
+-	Founded and led co-op journal club and presented relevant papers
+
+## [Novel Biotherapeutics Seminar](../_projects/biotherapeudics.md/) 	          	            					     
+##### *Student, September 2020 – December 2020*
+-	Designed and wrote 12-page, independent, original research grant proposal: “T cell Epitope Modification of AAV for Immune Escape”
+-	Reviewed and discussed 50+ scientific papers
+-	Presented 4 times on recent literature and own original proposal
+-	Provided written and verbal feedback on peers’ original proposals
+
+## [AbbVie Pharmaceuticals](../_projects/abbvie.md/)  	          							      
+##### *Bioinformatics Intern, May - August 2020*    				                     
+-	Worked with Protein Engineering and Expression group
+-	Optimized ribosome profiling (ribo-seq) analysis pipeline and added small open reading frame (sORF) detection by testing 12 software packages
+-	Conducted literature review of rapidly evolving technology in ribo-seq and sORFs
+-	Presented work to 30+ group members
+-	Contributed to drug development discovery pipeline for engineering stable cell lines and target discovery
+
+### [Timothy Lu Lab, MIT Synthetic Biology Center](../_projects/lu.md/) 			  	          	    
+##### *Undergraduate Researcher, September 2019 - March 2020*        						          	    	   
+-	Designed and built genetic circuits for gum disease regeneration
+-	Expanded on previous work by finding an unfinished project on campus and quickly familiarizing myself
+-	Created cells that detect inflammation and emit appropriate levels of growth factors for cell proliferation
+-	Performed mammalian cell culture and molecular cloning
