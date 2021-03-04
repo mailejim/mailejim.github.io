@@ -1,24 +1,28 @@
 ---
 layout: page
-title: Alnylam Pharmaceuticals
-description: RNAi Discovery Co-op, January 2021 - Current
-img: /assets/img/12.jpg
-importance: 1
+title: project 2
+description: a project with a background image
+img: /assets/img/3.jpg
+importance: 2
 ---
 
-RNA Interference (RNAi) is effective way to reduce levels of specific mRNA through targeted degradation. Using this natural pathway and innovations in chemical modifications and drug delivery, Alnylam Pharmaceuticals has brought several drugs to the market.
+### [Novel Biotherapeutics Seminar](/biotherapeudics.md/) 	          	            					     
+##### *Student, September 2020 – December 2020*
+-	Designed and wrote 12-page, independent, original research grant proposal: “T cell Epitope Modification of AAV for Immune Escape”
+-	Reviewed and discussed 50+ scientific papers
+-	Presented 4 times on recent literature and own original proposal
+-	Provided written and verbal feedback on peers’ original proposals
 
-As part of the annealing and testing group in the RNAi Discovery department, I prepared and analyzed siRNA duplexes. By analyzing the purity and identity of oligonucleotide single strands and duplexes through mass spectrometry
--	Contribute to hundreds of in vitro and in vivo preclinical drug development studies
--	Perform analysis through software tools such as ChemStation and Pyros eXpress
--	Founded and led co-op journal club and presented relevant papers
 
-Skills Developed​
-Mass spectrometry
-Detail-oriented work
-Collaboration
-Scientific communication in co-op journal club (founded and led)
 
+&nbsp;  
+#### About Ribosome Profiling:
+
+#### My Role:
+
+
+#### Skills Developed:
+- Critical analysis of published Literature
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

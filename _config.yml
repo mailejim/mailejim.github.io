@@ -80,21 +80,21 @@ disqus_shortname: al-folio # put your disqus shortname
 # -----------------------------------------------------------------------------
 
 collections:
-  #news:
-  #  defaults:
-  #    layout: post
-  #  output: true
-  #  permalink: /news/:path/
-  projects:
+  news:
+    defaults:
+      layout: post
     output: true
-    permalink: /projects/:path/
-    order:
-      - alnylam.md
-      - biotherapeudics.md
-      - abbvie.md
-      - lu.md
+    permalink: /news/:path/
+  #projects:
+  #  output: true
+  #  permalink: /projects/:path/
+  #  order:
+  #    - alnylam.md
+  #    - biotherapeudics.md
+  #    - abbvie.md
+  #    - lu.md
 
-#news_limit: 5
+news_limit: 5
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
