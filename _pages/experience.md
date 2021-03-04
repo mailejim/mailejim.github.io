@@ -8,9 +8,9 @@ nav: true
 
 # Education
 
-## Biological Engineering, Massachusetts Institute of Technology (MIT)
-#### Class of 2022
-**Degree:** Bachelor of Science in Biological Engineering, Minor in Computer Science            
+### Massachusetts Institute of Technology (MIT)
+#### *Class of 2022*
+**Degree:** Bachelor of Science in **Biological Engineering**, Minor in Computer Science            
 **Relevant courses:** Cancer Immunotherapy, Biotherapeutics, Biomolecular Systems Analysis, Genetics, Biochemistry, Cell Biology, Organic Chemistry, Python Intermediate Programming
 
 ---
@@ -22,7 +22,6 @@ nav: true
 -	Prepare and analyze siRNA for research and drug discovery collaboration
 -	Analyze purity and identity of oligonucleotide single strands and duplexes through mass spectrometry
 -	Contribute to hundreds of in vitro and in vivo preclinical drug development studies
--	Perform analysis through software tools such as ChemStation and Pyros eXpress
 -	Founded and led co-op journal club and presented relevant papers
 
 ### [Novel Biotherapeutics Seminar](/biotherapeudics.md/) 	          	            					     

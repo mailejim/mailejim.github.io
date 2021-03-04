@@ -6,7 +6,7 @@ img: /assets/img/3.jpg
 importance: 2
 ---
 
-### [Novel Biotherapeutics Seminar](/biotherapeudics.md/) 	          	            					     
+### Novel Biotherapeutics Seminar         	            					     
 ##### *Student, September 2020 – December 2020*
 -	Designed and wrote 12-page, independent, original research grant proposal: “T cell Epitope Modification of AAV for Immune Escape”
 -	Reviewed and discussed 50+ scientific papers
@@ -22,7 +22,11 @@ importance: 2
 
 
 #### Skills Developed:
-- Critical analysis of published Literature
+- Critical analysis of published literature
+- Experimental design
+- Scientific writing of original research grant proposal
+- Oral presentation
+
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
