@@ -2,7 +2,7 @@
 layout: page
 title: experience
 permalink: /experience/
-description:
+description: Maile Jim's Professional and Academic Experience
 nav: true
 ---
 
@@ -39,7 +39,7 @@ nav: true
 -	Presented work to 30+ group members
 -	Contributed to drug development discovery pipeline for engineering stable cell lines and target discovery
 
-### [Timothy Lu Lab, MIT Synthetic Biology Center](/lu.md/) 			  	          	    
+### [Timothy Lu Lab, MIT Synthetic Biology Center](/synbio.md/) 			  	          	    
 ##### *Undergraduate Researcher, September 2019 - March 2020*        						          	    	   
 -	Designed and built genetic circuits for gum disease regeneration
 -	Expanded on previous work by finding an unfinished project on campus and quickly familiarizing myself

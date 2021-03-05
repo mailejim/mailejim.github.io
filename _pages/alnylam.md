@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Alnylam Pharmaceuticals
-description: RNAi Discovery Co-op, January 2021 - Current
+permalink: /experience/alnylam/
+description: Maile Jim's work as a RNAi Discovery Co-op, January 2021 - Current
 ---
 
 ## Alnylam Pharmaceuticals   				     				     

@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Abbvie
-description: Bioinformatics Intern, May - August 2020
+permalink: /experience/abbvie/
+description: Maile Jim's work as a Bioinformatics Intern, May - August 2020
 ---
 
 ## AbbVie Pharmaceuticals 	          							      

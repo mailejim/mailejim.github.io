@@ -1,7 +1,8 @@
 ---
 layout: page
 title: biotherapeutics
-description: a project with a background image
+permalink: /experience/biotherapeutics/
+description: Maile Jim's work as a student in the biotherapeutics seminar
 ---
 ### Novel Biotherapeutics Seminar         	            					     
 ##### *Student, September 2020 – December 2020*
