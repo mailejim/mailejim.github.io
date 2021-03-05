@@ -24,7 +24,7 @@ nav: true
 -	Contribute to hundreds of in vitro and in vivo preclinical drug development studies
 -	Founded and led co-op journal club and presented relevant papers
 
-### [Novel Biotherapeutics Seminar](/biotherapeudics.md/) 	          	            					     
+### [Novel Biotherapeutics Seminar](/biotherapeutics.md/) 	          	            					     
 ##### *Student, September 2020 – December 2020*
 -	Designed and wrote 12-page, independent, original research grant proposal: “T cell Epitope Modification of AAV for Immune Escape”
 -	Reviewed and discussed 50+ scientific papers

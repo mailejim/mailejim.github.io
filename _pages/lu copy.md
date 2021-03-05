@@ -1,32 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: /assets/img/3.jpg
-importance: 2
+title: project 4
+description: another without an image
+img:
+importance: 3
 ---
-
-### Novel Biotherapeutics Seminar         	            					     
-##### *Student, September 2020 – December 2020*
--	Designed and wrote 12-page, independent, original research grant proposal: “T cell Epitope Modification of AAV for Immune Escape”
--	Reviewed and discussed 50+ scientific papers
--	Presented 4 times on recent literature and own original proposal
--	Provided written and verbal feedback on peers’ original proposals
-
-
-
-&nbsp;  
-#### About Ribosome Profiling:
-
-#### My Role:
-
-
-#### Skills Developed:
-- Critical analysis of published literature
-- Experimental design
-- Scientific writing of original research grant proposal
-- Oral presentation
-
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
